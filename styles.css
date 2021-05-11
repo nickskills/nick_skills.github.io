@@ -23,7 +23,7 @@ body{
     font-family: "Circe Regular";
 }
 .header{ 
-    background-image: url(/img/main-bg.jpg);
+    background-image: url(img/main-bg.jpg);
     background-size: cover;
 }
 .nav{
